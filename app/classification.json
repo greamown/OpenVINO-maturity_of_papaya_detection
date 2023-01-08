@@ -1,0 +1,11 @@
+{  
+    "model_path":"./app/model/classification_mobilenetv2.xml",
+    "label_path":"./app/model/cls_classes.txt",
+    "loop":true,
+    "device":"CPU",
+    "thres":null,
+    "num_infer_requests":0,
+    "num_streams":"",
+    "num_threads":null,
+    "number_top":1
+}

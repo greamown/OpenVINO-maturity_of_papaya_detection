@@ -1,0 +1,12 @@
+{  
+    "model_path":"./app/model/u2netp.xml",
+    "label_path":"./app/model/seg_classes.txt",
+    "loop":true,
+    "device":"GPU",
+    "thres":null,
+    "num_infer_requests":0,
+    "num_streams":"",
+    "num_threads":null,
+    "architecture_type":"segmentation",
+    "only_masks":false
+}

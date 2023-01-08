@@ -1,0 +1,6 @@
+{
+    "input_data_r":"0",
+    "input_data_l":"2",
+    "model_1":"./app/segmentation.json",
+    "model_2":"./app/classification.json"
+}

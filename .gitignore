@@ -1,0 +1,8 @@
+__pycache__/
+*/__pycache__/
+*/model/*
+*/dataset/*
+!app/dataset/video_1.mp4
+!app/dataset/video_2.mp4
+convert/*
+*.log
