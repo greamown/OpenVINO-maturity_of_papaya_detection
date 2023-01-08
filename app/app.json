@@ -1,6 +1,6 @@
 {
-    "input_data_r":"0",
-    "input_data_l":"2",
+    "input_data_r":"./app/dataset/video_1.mp4",
+    "input_data_l":"./app/dataset/video_1.mp4",
     "model_1":"./app/segmentation.json",
     "model_2":"./app/classification.json"
 }

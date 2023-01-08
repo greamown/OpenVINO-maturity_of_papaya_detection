@@ -22,13 +22,25 @@ sudo chmod 777 ./docker
 sudo ./docker/build.sh
 ```
 ##  Run container
-### CLI mode
 
 ```shell
 sudo ./docker/run.sh
 ```
 
+### CLI mode
+
+```shell
+python3 openvino_demo.py -c ./app/app.json
+```
+
+- This "-c" of argument is a configuration file path.
+
 ## Display
-<!-- <div align="center">
-  <img width="100%" height="100%" src="">
-</div> -->
+<details>
+    <summary> Show inference result
+    </summary>
+      <div align="center">
+        <img width="80%" height="80%" src="./descrit/papaya_detection.gif">
+      </div>
+
+</details>
